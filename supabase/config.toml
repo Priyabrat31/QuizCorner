@@ -1,0 +1,10 @@
+project_id = "uchlacqfyuzrsnqguwwx"
+
+[functions.submit-quiz]
+verify_jwt = true
+
+[functions.get-leaderboard]
+verify_jwt = false
+
+[functions.get-history]
+verify_jwt = true
