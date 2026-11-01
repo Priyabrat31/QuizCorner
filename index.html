@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fffefa">
+  <meta name="description" content="Explore quizzes on QuizCorner.">
+  <title>QuizCorner</title>
+  <link rel="icon" type="image/png" href="assets/favicon/qc-icon.png">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body class="home-page">
+  <main class="home-content">
+    <h1 class="home-wordmark">QuizCorner</h1>
+    <div class="home-actions">
+      <a class="button button-primary button-block" href="users.html">Explore Quizzes</a>
+      <div class="home-secondary">
+        <a class="button button-secondary" href="history.html">Results History</a>
+        <a class="button button-secondary" href="leaderboard.html">Leaderboard</a>
+      </div>
+    </div>
+    <section class="featured-wrap" aria-labelledby="featured-label">
+      <p class="featured-label" id="featured-label">Featured creator</p>
+      <div class="featured-card" id="featured-creator">
+        <div class="skeleton creator-avatar"></div>
+        <div class="featured-details"><div class="skeleton" style="height:15px;width:140px"></div><div class="skeleton" style="height:11px;width:110px;margin-top:8px"></div></div>
+      </div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <script src="assets/js/config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="assets/js/supabase.js"></script>
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/homepage.js"></script>
+</body>
+</html>

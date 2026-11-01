@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fffefa"><title>QuizCorner</title>
+  <link rel="icon" type="image/png" href="assets/favicon/qc-icon.png">
+  <link rel="stylesheet" href="assets/css/style.css"><link rel="stylesheet" href="assets/css/components.css"><link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="page-wrap page-main">
+    <p class="eyebrow">Choose a quiz</p><h1 class="page-title">Explore Creators</h1>
+    <p class="page-subtitle">Choose a creator to view their quiz.</p>
+    <div id="creator-list" class="creator-list"><div class="card info-card"><div class="skeleton" style="height:62px"></div></div></div>
+    <section class="creator-cta">
+      <div><h2>Want to Become a Creator?</h2><p>Send us a WhatsApp message to get started.</p></div>
+      <a class="button button-primary" id="creator-request-link" target="_blank" rel="noopener">Add Your Creator Name</a>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <script src="assets/js/config.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="assets/js/supabase.js"></script><script src="assets/js/common.js"></script><script src="assets/js/creators.js"></script>
+</body>
+</html>

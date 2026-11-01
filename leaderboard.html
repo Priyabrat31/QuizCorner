@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fffefa"><title>QuizCorner</title>
+  <link rel="icon" type="image/png" href="assets/favicon/qc-icon.png">
+  <link rel="stylesheet" href="assets/css/style.css"><link rel="stylesheet" href="assets/css/components.css"><link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="page-wrap page-main" id="leaderboard-root">
+    <p class="eyebrow">Top performers</p><h1 class="page-title">Leaderboard</h1><p class="page-subtitle">Best attempt per student name and quiz.</p>
+    <div class="toolbar">
+      <div class="toolbar-control"><label class="form-label" for="leaderboard-select">Leaderboard</label><select class="select-input" id="leaderboard-select"><option value="overall">Overall</option></select></div>
+      <button class="button button-outline button-small" id="leaderboard-refresh" type="button">↻ Refresh</button>
+    </div>
+    <div id="leaderboard-content"><div class="loader-wrap"><div class="brand-loader">QuizCorner</div><p>Loading leaderboard</p></div></div>
+  </main>
+  <div id="site-footer"></div>
+  <script src="assets/js/config.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="assets/js/supabase.js"></script><script src="assets/js/common.js"></script><script src="assets/js/leaderboard.js"></script>
+</body>
+</html>
