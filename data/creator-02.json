@@ -1,0 +1,211 @@
+{
+  "quizId": "creator-02",
+  "creatorId": "creator-02",
+  "title": "Quiz for Creator 02",
+  "durationMinutes": 20,
+  "totalQuestions": 20,
+  "totalMarks": 20,
+  "isPublished": false,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Replace question 1 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q2",
+      "question": "Replace question 2 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q3",
+      "question": "Replace question 3 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q4",
+      "question": "Replace question 4 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q5",
+      "question": "Replace question 5 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q6",
+      "question": "Replace question 6 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q7",
+      "question": "Replace question 7 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q8",
+      "question": "Replace question 8 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q9",
+      "question": "Replace question 9 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q10",
+      "question": "Replace question 10 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q11",
+      "question": "Replace question 11 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q12",
+      "question": "Replace question 12 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q13",
+      "question": "Replace question 13 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q14",
+      "question": "Replace question 14 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q15",
+      "question": "Replace question 15 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q16",
+      "question": "Replace question 16 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q17",
+      "question": "Replace question 17 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q18",
+      "question": "Replace question 18 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q19",
+      "question": "Replace question 19 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    },
+    {
+      "id": "q20",
+      "question": "Replace question 20 with the actual question text.",
+      "options": {
+        "A": "Replace option A",
+        "B": "Replace option B",
+        "C": "Replace option C",
+        "D": "Replace option D"
+      }
+    }
+  ]
+}

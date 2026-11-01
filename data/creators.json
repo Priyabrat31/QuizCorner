@@ -1,0 +1,74 @@
+{
+  "creators": [
+    {
+      "id": "creator-01",
+      "name": "Creator 01",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-01.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-01.json",
+      "quizEnabled": false
+    },
+    {
+      "id": "creator-02",
+      "name": "Creator 02",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-02.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-02.json",
+      "quizEnabled": false
+    },
+    {
+      "id": "creator-03",
+      "name": "Creator 03",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-03.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-03.json",
+      "quizEnabled": false
+    },
+    {
+      "id": "creator-04",
+      "name": "Creator 04",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-04.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-04.json",
+      "quizEnabled": false
+    },
+    {
+      "id": "creator-05",
+      "name": "Creator 05",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-05.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-05.json",
+      "quizEnabled": false
+    },
+    {
+      "id": "creator-06",
+      "name": "Creator 06",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-06.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-06.json",
+      "quizEnabled": false
+    },
+    {
+      "id": "creator-07",
+      "name": "Creator 07",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "image": "assets/images/creators/creator-07.jpg",
+      "introduction": "A short creator introduction will be added here.",
+      "quizFile": "data/creator-07.json",
+      "quizEnabled": false
+    }
+  ]
+}
