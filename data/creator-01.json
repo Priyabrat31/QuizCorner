@@ -1,210 +1,215 @@
 {
   "quizId": "creator-01",
   "creatorId": "creator-01",
-  "title": "Quiz for Creator 01",
+  "title": "Cell – The Fundamental Unit of Life",
   "durationMinutes": 20,
   "totalQuestions": 20,
   "totalMarks": 20,
   "isPublished": false,
+  "creator": {
+    "name": "Priyabrat Mohanty",
+    "subject": "Biological Science",
+    "topic": "Cell – The Fundamental Unit of Life"
+  },
   "questions": [
     {
       "id": "q1",
-      "question": "Replace question 1 with the actual question text.",
+      "question": "Who discovered the cell?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Robert Hooke",
+        "B": "Charles Darwin",
+        "C": "Louis Pasteur",
+        "D": "Gregor Mendel"
       }
     },
     {
       "id": "q2",
-      "question": "Replace question 2 with the actual question text.",
+      "question": "Which is known as the powerhouse of the cell?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Nucleus",
+        "B": "Ribosome",
+        "C": "Mitochondria",
+        "D": "Golgi apparatus"
       }
     },
     {
       "id": "q3",
-      "question": "Replace question 3 with the actual question text.",
+      "question": "Which part of the cell controls all its activities?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Cytoplasm",
+        "B": "Nucleus",
+        "C": "Cell wall",
+        "D": "Vacuole"
       }
     },
     {
       "id": "q4",
-      "question": "Replace question 4 with the actual question text.",
+      "question": "Which organelle is responsible for photosynthesis in plant cells?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Mitochondria",
+        "B": "Chloroplast",
+        "C": "Ribosome",
+        "D": "Lysosome"
       }
     },
     {
       "id": "q5",
-      "question": "Replace question 5 with the actual question text.",
+      "question": "What is the outermost covering of an animal cell?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Nuclear membrane",
+        "D": "Cytoplasm"
       }
     },
     {
       "id": "q6",
-      "question": "Replace question 6 with the actual question text.",
+      "question": "Which cell organelle is called the suicidal bag of the cell?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Lysosome",
+        "B": "Ribosome",
+        "C": "Vacuole",
+        "D": "Plastid"
       }
     },
     {
       "id": "q7",
-      "question": "Replace question 7 with the actual question text.",
+      "question": "Which structure is present in plant cells but absent in animal cells?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Cell wall",
+        "D": "Plasma membrane"
       }
     },
     {
       "id": "q8",
-      "question": "Replace question 8 with the actual question text.",
+      "question": "Which organelle helps in protein synthesis?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Ribosome",
+        "B": "Mitochondria",
+        "C": "Lysosome",
+        "D": "Vacuole"
       }
     },
     {
       "id": "q9",
-      "question": "Replace question 9 with the actual question text.",
+      "question": "What is the jelly-like substance present inside the cell called?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Nucleoplasm",
+        "B": "Cytoplasm",
+        "C": "Cell wall",
+        "D": "Chromosome"
       }
     },
     {
       "id": "q10",
-      "question": "Replace question 10 with the actual question text.",
+      "question": "Which of the following is a unicellular organism?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Human",
+        "B": "Mango tree",
+        "C": "Amoeba",
+        "D": "Frog"
       }
     },
     {
       "id": "q11",
-      "question": "Replace question 11 with the actual question text.",
+      "question": "Which organelle is responsible for packaging and dispatching materials?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Golgi apparatus",
+        "B": "Ribosome",
+        "C": "Nucleus",
+        "D": "Chloroplast"
       }
     },
     {
       "id": "q12",
-      "question": "Replace question 12 with the actual question text.",
+      "question": "Which cell organelle contains digestive enzymes?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Mitochondria",
+        "B": "Lysosome",
+        "C": "Plastid",
+        "D": "Ribosome"
       }
     },
     {
       "id": "q13",
-      "question": "Replace question 13 with the actual question text.",
+      "question": "Which of the following is the smallest unit of life?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Tissue",
+        "B": "Organ",
+        "C": "Cell",
+        "D": "Organ system"
       }
     },
     {
       "id": "q14",
-      "question": "Replace question 14 with the actual question text.",
+      "question": "Which structure controls the movement of substances into and out of the cell?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Nucleus",
+        "D": "Vacuole"
       }
     },
     {
       "id": "q15",
-      "question": "Replace question 15 with the actual question text.",
+      "question": "Which type of cell division is responsible for growth and repair?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Fertilisation",
+        "D": "Budding"
       }
     },
     {
       "id": "q16",
-      "question": "Replace question 16 with the actual question text.",
+      "question": "Which of the following is found in the nucleus?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "DNA",
+        "B": "Chlorophyll",
+        "C": "Cellulose",
+        "D": "Starch"
       }
     },
     {
       "id": "q17",
-      "question": "Replace question 17 with the actual question text.",
+      "question": "Which organelle stores water, food and waste materials in plant cells?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Ribosome",
+        "B": "Vacuole",
+        "C": "Mitochondria",
+        "D": "Golgi apparatus"
       }
     },
     {
       "id": "q18",
-      "question": "Replace question 18 with the actual question text.",
+      "question": "Which of the following organisms has a prokaryotic cell?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Amoeba",
+        "B": "Bacteria",
+        "C": "Mushroom",
+        "D": "Human"
       }
     },
     {
       "id": "q19",
-      "question": "Replace question 19 with the actual question text.",
+      "question": "What is the main function of chlorophyll?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Respiration",
+        "B": "Absorption of sunlight",
+        "C": "Digestion",
+        "D": "Protein synthesis"
       }
     },
     {
       "id": "q20",
-      "question": "Replace question 20 with the actual question text.",
+      "question": "Who proposed the cell theory?",
       "options": {
-        "A": "Replace option A",
-        "B": "Replace option B",
-        "C": "Replace option C",
-        "D": "Replace option D"
+        "A": "Schleiden and Schwann",
+        "B": "Robert Hooke and Darwin",
+        "C": "Watson and Crick",
+        "D": "Mendel and Lamarck"
       }
     }
   ]
