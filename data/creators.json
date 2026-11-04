@@ -2,17 +2,17 @@
   "creators": [
     {
       "id": "creator-01",
-      "name": "Creator 01",
-      "subject": "Subject to be added",
-      "topic": "Quiz topic to be added",
+      "name": "Priyabrat Mohanty",
+      "subject": "Biological Science",
+      "topic": "Cell – The Fundamental Unit of Life"
       "image": "assets/images/creators/creator-01.jpg",
-      "introduction": "A short creator introduction will be added here.",
+      "introduction": "Owner",
       "quizFile": "data/creator-01.json",
       "quizEnabled": false
     },
     {
       "id": "creator-02",
-      "name": "Creator 02",
+      "name": "Priyadarshan Patra",
       "subject": "Subject to be added",
       "topic": "Quiz topic to be added",
       "image": "assets/images/creators/creator-02.jpg",
@@ -22,7 +22,7 @@
     },
     {
       "id": "creator-03",
-      "name": "Creator 03",
+      "name": "Umesh Kumar Behera",
       "subject": "Subject to be added",
       "topic": "Quiz topic to be added",
       "image": "assets/images/creators/creator-03.jpg",
@@ -32,7 +32,7 @@
     },
     {
       "id": "creator-04",
-      "name": "Creator 04",
+      "name": "Darshan Kumar Nayak",
       "subject": "Subject to be added",
       "topic": "Quiz topic to be added",
       "image": "assets/images/creators/creator-04.jpg",
@@ -42,7 +42,7 @@
     },
     {
       "id": "creator-05",
-      "name": "Creator 05",
+      "name": "Subhashree Subhalaxmi",
       "subject": "Subject to be added",
       "topic": "Quiz topic to be added",
       "image": "assets/images/creators/creator-05.jpg",
@@ -52,7 +52,7 @@
     },
     {
       "id": "creator-06",
-      "name": "Creator 06",
+      "name": "Sonali Dalei",
       "subject": "Subject to be added",
       "topic": "Quiz topic to be added",
       "image": "assets/images/creators/creator-06.jpg",
