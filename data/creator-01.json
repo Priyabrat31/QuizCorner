@@ -5,7 +5,7 @@
   "durationMinutes": 20,
   "totalQuestions": 20,
   "totalMarks": 20,
-  "isPublished": false,
+  "isPublished": true,
   "creator": {
     "name": "Priyabrat Mohanty",
     "subject": "Biological Science",
